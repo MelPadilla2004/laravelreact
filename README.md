@@ -28,3 +28,6 @@ The project was developed for [the following](https://youtu.be/VrQRa-afCAk) YouT
 Coming soon...
 
 "# palabay" 
+"# laravelreact" 
+"# laravelreact" 
+"# laravelreact" 
