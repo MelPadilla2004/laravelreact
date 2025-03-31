@@ -1,5 +1,6 @@
 
-## Features
+FEATURES
+
 1. Registration & Login
 2. Projects CRUD with sorting, filtering and pagination
 3. Tasks CRUD with sorting, filtering and pagination
@@ -10,7 +11,8 @@
 8. Show dashboard with overview information
 
 
-## Installation
+HOW TO INSTALL
+
 1. Clone the project
 2. Navigate to the project's root directory using terminal
 3. Create `.env` file - `cp .env.example .env`
